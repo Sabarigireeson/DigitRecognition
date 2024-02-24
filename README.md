@@ -15,7 +15,7 @@ This project uses TensorFlow to train a model on the MNIST dataset and then uses
 1. Ensure that you have all the required dependencies installed.
 2. Run the script using Python 3.
 
-Code Overview
+## Code Overview
 The code can be divided into three main parts:
 
 1.Data Loading and Preprocessing: The get_mnist_data function is used to load the MNIST dataset and normalize the images.
